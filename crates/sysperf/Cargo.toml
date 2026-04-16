@@ -11,6 +11,6 @@ repository.workspace = true
 alloy-primitives.workspace = true
 
 rayon = "1.8"
-rand = "0.8"
+rand = "0.9"
 num_cpus = "1.16"
 sysinfo = "0.33.0"
