@@ -72,7 +72,7 @@ derive_more.workspace = true
 metrics.workspace = true
 serde_json.workspace = true
 
-time = { version = "0.3.36", features = ["macros", "formatting", "parsing"] }
+time = { version = "0.3.47", features = ["macros", "formatting", "parsing"] }
 chrono = "0.4"
 uuid = { version = "1.6.1", features = ["serde", "v5", "v4"] }
 
